@@ -1,5 +1,7 @@
 ## 💫 About me 
-Greetings, I'm Snehil Chatterjee, a passionate B.Tech student pursuing Computer Science Engineering at Vellore Institute of Technology. I have an insatiable love for problem-solving and a deep fascination for various technological domains. 
+I am a passionate problem solver who takes pride in my consistent efforts, as evidenced by my meritorious award for securing 2nd
+place in my branch. I thrive on exploration and am currently delving into the intricacies of the .NET framework, operating systems, and
+DevOps practices. Previously, I immersed myself in the fascinating world of machine learning and deep learning using PyTorch.
 
 
 
